@@ -1,1 +1,2 @@
-# stream-kek-desktop
+# Stream Kek Desktop App
+
